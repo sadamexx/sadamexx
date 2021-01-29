@@ -1,3 +1,4 @@
+![github](/images/pyramids.jpg)
 ### Hello World! 👋 Here is what I am currently working on.
 
 
