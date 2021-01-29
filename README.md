@@ -1,5 +1,5 @@
 ![Me in Egypt!](Pyramids.jpg)
-### Hello World! 👋 Here is what I am currently working on.
+### Hello World! 👋 Like the shirt says GOALS. GRIND. GOD.
 
 
 - 🔭 I’m currently working on ...Family Promise of Spokane
