@@ -1,4 +1,4 @@
-![Me in Egypt!](pyramids.jpg)
+![Me in Egypt!](Pyramids.jpg)
 ### Hello World! 👋 Here is what I am currently working on.
 
 
