@@ -1,4 +1,4 @@
-![github](/images/pyramids.jpg)
+![Me in Egypt!](images/pyramids.jpg)
 ### Hello World! 👋 Here is what I am currently working on.
 
 
