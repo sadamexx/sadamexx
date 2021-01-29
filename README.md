@@ -1,5 +1,6 @@
 ![Me in Egypt!](Pyramids.jpg)
-### Hello World! 👋 Like the shirt says GOALS. GRIND. GOD.
+### Hello World! 👋 
+Like the shirt says 🙏🏼 GOD. 🏆 GOALS. 💪🏽 GRIND. In that order.
 
 
 - 🔭 I’m currently working on ...Family Promise of Spokane
